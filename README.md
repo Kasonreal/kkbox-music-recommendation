@@ -42,7 +42,7 @@ The deep network has 6 hidden layers, with 128, 128, 64, 64, 32, 32 hidden units
 
 Architecture Graph:
 
-![architecture](architecture.png)
+![architecture](image/architecture.png)
 
 ### Feature Engineering
 
