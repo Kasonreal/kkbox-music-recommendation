@@ -1,3 +1,6 @@
+## Introduction
+This is the group repository for KKBox Music Recommendation Challenge. The members are Jiayang Li, Qipeng Chen and Jiacheng Liu
+
 ## File Structure
 
 | Path                                     | Description                              |
